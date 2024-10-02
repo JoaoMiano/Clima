@@ -143,3 +143,14 @@ p{
     padding-top: 20px;
 }
 
+@media (max-width: 450px){
+    h1{
+        font-size: 50px;
+    }
+
+    p{
+        font-size: 15px;
+        max-width: 300px;
+        text-align: center;
+    }
+}
